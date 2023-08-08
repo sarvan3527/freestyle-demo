@@ -1,0 +1,16 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemo
+[freestyledemo] $ cmd /c call C:\Users\ADAVIS~1\AppData\Local\Temp\jenkins4826215064121282207.bat
+
+C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemo>echo "Hello jenkins" 
+"Hello jenkins"
+
+C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemo>exit 0 
+[freestyledemo] $ cmd /c call C:\Users\ADAVIS~1\AppData\Local\Temp\jenkins83070759716977538.bat
+
+C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemo>echo "Build successfull" 
+"Build successfull"
+
+C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemo>exit 0 
+Finished: SUCCESS

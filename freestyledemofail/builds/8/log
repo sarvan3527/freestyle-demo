@@ -1,0 +1,11 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemofail
+[freestyledemofail] $ cmd /c call C:\Users\ADAVIS~1\AppData\Local\Temp\jenkins7047786537496971313.bat
+
+C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemofail>echo "Build failed" 
+"Build failed"
+
+C:\Users\Adavi Sarvan-3316\.jenkins\workspace\freestyledemofail>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
